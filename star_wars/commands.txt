@@ -1,0 +1,12 @@
+
+ls                         describe the contents of the directory
+ls -la                     describe the contents of the directory including hidden files
+cd <directory>             change into a new directory 
+rm <file>                  remove file
+mv <file> <location>       move file 
+mv <name> <name2>          rename file
+cp <file> <location>       copy file into a new location 
+cp -r <file> <location>    copy directory into a new location
+rm -rf                     remove directory with content inside
+mkdir <name>               create new directory and name it
+touch <file>               create a new file
